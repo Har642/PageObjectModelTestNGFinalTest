@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-18T14:33:24 IST" name="Default suite" finished-at="2024-11-18T14:33:59 IST" duration-ms="35209">
+    <groups>
+    </groups>
+    <test started-at="2024-11-18T14:33:24 IST" name="Default test" finished-at="2024-11-18T14:33:59 IST" duration-ms="35209">
+      <class name="testScripts.NewArticleLoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testScripts.NewArticleLoginTest@21c64522]" started-at="2024-11-18T14:33:24 IST" name="setup" finished-at="2024-11-18T14:33:28 IST" duration-ms="4548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="newArticleHomePageTest()[pri:1, instance:testScripts.NewArticleLoginTest@21c64522]" started-at="2024-11-18T14:33:28 IST" name="newArticleHomePageTest" finished-at="2024-11-18T14:33:31 IST" duration-ms="2348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newArticleHomePageTest -->
+        <test-method signature="dataEntry()[pri:2, instance:testScripts.NewArticleLoginTest@21c64522]" started-at="2024-11-18T14:33:31 IST" name="dataEntry" finished-at="2024-11-18T14:33:35 IST" duration-ms="3754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataEntry -->
+        <test-method signature="articleHomeCheck()[pri:3, instance:testScripts.NewArticleLoginTest@21c64522]" started-at="2024-11-18T14:33:35 IST" name="articleHomeCheck" finished-at="2024-11-18T14:33:39 IST" duration-ms="4258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- articleHomeCheck -->
+        <test-method signature="updateTheData()[pri:4, instance:testScripts.NewArticleLoginTest@21c64522]" started-at="2024-11-18T14:33:39 IST" name="updateTheData" finished-at="2024-11-18T14:33:50 IST" duration-ms="10671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateTheData -->
+        <test-method signature="finalTest()[pri:5, instance:testScripts.NewArticleLoginTest@21c64522]" started-at="2024-11-18T14:33:50 IST" name="finalTest" finished-at="2024-11-18T14:33:59 IST" duration-ms="9503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalTest -->
+      </class> <!-- testScripts.NewArticleLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
